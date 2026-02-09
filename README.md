@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a Data Analyst who enjoys going beyond easy narratives and finding patterns based off REAL data to get a more accurate truth about current events. 
+The repositories in here reflect my desire to use data tools and turn them into actionable insights for public and private institutions. 
+
+### Data Tools
+Excel, PowerBI, Tableau, SQL
+
+### Programming Tools
+Primarily python
+
+
 <!--
 **westbelow/westbelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
